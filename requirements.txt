@@ -1,0 +1,9 @@
+sklearn
+xgboost
+jinja2
+xlrd
+pandas
+flask
+flask_cors
+wtforms
+supervisor
